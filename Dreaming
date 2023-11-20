@@ -1,1 +1,7 @@
 20/11/2023 : Room - Dreaming, Link -  `https://tryhackme.com/room/dreaming`
+
+1. Scanning
+* using nmap we will get 2 open port which is 21 (SSh) and 80 (Http) 
+* Visit the ip machine will only bring you to nothing 
+
+2. To Be Continue !!
